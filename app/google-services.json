@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "149949959072",
+    "firebase_url": "https://fireapp-34cd4.firebaseio.com",
+    "project_id": "fireapp-34cd4",
+    "storage_bucket": "fireapp-34cd4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:149949959072:android:b52f6dbc7c8be38d",
+        "android_client_info": {
+          "package_name": "com.example.chathurangasandun.fireapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "149949959072-q09jk3tkb1404j4kcn20st0sfd66fdib.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJvrJCpc8OcF2AAxH7nPYVJX6FIaS0bGw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
